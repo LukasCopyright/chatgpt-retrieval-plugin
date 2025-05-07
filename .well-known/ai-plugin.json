@@ -11,7 +11,7 @@
   "api": {
     "type": "openapi",
     "url": "https://chatgpt-retrieval-plugin-wokw.onrender.com/.well-known/openapi.yaml",
-    "has_user_authentication": false
+    "has_user_authentication": true
   },
   "logo_url": "https://your-app-url.com/.well-known/logo.png",
   "contact_email": "hello@contact.com", 
