@@ -13,6 +13,7 @@
     "url": "https://chatgpt-retrieval-plugin-wokw.onrender.com/.well-known/openapi.json", 
     "has_user_authentication": true
   },
+  "logo_url": "https://chatgpt-retrieval-plugin-wokw.onrender.com/logo.png",
   "contact_email": "hello@contact.com", 
   "legal_info_url": "http://example.com/legal-info"
 }
