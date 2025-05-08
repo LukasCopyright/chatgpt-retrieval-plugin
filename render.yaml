@@ -9,7 +9,7 @@ services:
     envVars: 
       - key: DATASTORE
         value: weaviate
-      - key: BEARER_KEY
+      - key: BEARER_TOKEN
         generateValue: true 
       # will be promtped to add this in the UI on deployment
       - key: OPENAI_API_KEY
