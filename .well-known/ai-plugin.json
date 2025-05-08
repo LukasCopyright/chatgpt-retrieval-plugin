@@ -10,7 +10,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://chatgpt-retrieval-plugin-wokw.onrender.com/.well-known/openapi.yaml", 
+    "url": "https://retrieval-plugin-server-y3y2.onrender.com/.well-known/openapi.yaml", 
     "has_user_authentication": false
   },
   "logo_url": "https://chatgpt-retrieval-plugin-wokw.onrender.com/.well-known/logo.png",
